@@ -1,5 +1,5 @@
 # Muller_CSE30_Lecture_Slides
- Class lecture slides in powerpoint and pdf format
+ Class lecture slides in pdf format
 
  This work is licensed under a
  [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
